@@ -1,4 +1,7 @@
 " Django Project" 
+
+
+
 1-Clone This Project (Make Sure You Have Git Installed)
 
 
